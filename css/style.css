@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: rgb(245, 245, 252);
+}
+
+img {
+  border-style: dashed;
+  border-color: gold;
+  width: 200px;
+  height: 300px;
+}
+
+canvas {height: 501px;width: 500px; background-color:white;
+}
